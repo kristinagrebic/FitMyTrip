@@ -1,4 +1,4 @@
-insert streamlit as st 
+import streamlit as st 
 
 """
 Flow — a command-line habit tracker.
